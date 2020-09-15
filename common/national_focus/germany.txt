@@ -4050,6 +4050,7 @@ focus_tree = {
 		prerequisite = {
 			focus = GER_war_with_poland
 			focus = GER_danzig_or_war
+			focus = GER_poland_friend
 		}
 		mutually_exclusive = {
 			focus = GER_second_vienna_award
