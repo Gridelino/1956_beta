@@ -1692,6 +1692,11 @@ focus_tree = {
 			modifier = {
 				surrender_progress > 0.1
 				factor = 0
+			}	
+			modifier = {
+				is_historical_focus_on = yes
+				date < 1941.9.26
+				factor = 0
 			}			
 		}
 
